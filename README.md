@@ -10,6 +10,7 @@
 - Github repo is viewable here: https://github.com/henlowgg/Super-Duper-Scheduler
 - Site is viewable at: https://henlowgg.github.io/Super-Duper-Scheduler/
 - Preview: ![plot](./Assets/Images/scheduler-preview.png)
+![Homepage](./Assets/Images/League-avatar.jpeg)
 
 ## Credits
 - Leif E. Hetland for helping me to understand functioning code, bootstrap basics, and how to utilize JS.
